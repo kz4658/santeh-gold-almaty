@@ -1,0 +1,32 @@
+.demo_wrap {
+    position: relative;
+    overflow: hidden;
+    padding: 16px;
+    background-color: blue;
+   
+}
+.demo_wrap h1 {
+    padding: 50px;
+    position: relative;
+    z-index: 2;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    
+}
+.demo_wrap img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+}
+
+.demo_wrap button {
+    z-index: 4;
+}
+
+
+

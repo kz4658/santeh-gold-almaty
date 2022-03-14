@@ -1,0 +1,15 @@
+.container h3 {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.container p {
+    text-align: center;
+}
+
+.alert button {
+    position: relative;
+left: 50%;
+transform: translate(-50%, 0);
+margin-bottom: 1em;
+}
