@@ -16,6 +16,8 @@ class Footer extends React.Component {
     <a href="tel:+77077776752"><button type="button" className="btn btn-primary btn-lg">+77077776752</button></a>
     <div></div>
     <a href="https://wa.me/+77071793498"><button type="button" className="btn btn-success btn-lg">Написать WhatsAp</button></a>
+    <div></div>
+    <a href="https://instagram.com/santex_gold_98?utm_medium=copy_link"><button type="button" className="btn btn-danger btn-lg">instagram</button></a>
       </div> 
     
    
