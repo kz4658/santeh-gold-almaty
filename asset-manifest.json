@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/santeh-gold-almaty/static/css/main.9f9383db.css",
+    "main.js": "/santeh-gold-almaty/static/js/main.a6236391.js",
+    "static/media/mock.png": "/santeh-gold-almaty/static/media/mock.1e72b779302e70d308ce.png",
+    "static/media/66.jpg": "/santeh-gold-almaty/static/media/66.854373a4aa2f8875f2f1.jpg",
+    "static/media/j.jpg": "/santeh-gold-almaty/static/media/j.5f9e86e34b2d61336560.jpg",
+    "static/media/mock3.jpg": "/santeh-gold-almaty/static/media/mock3.6629e144b4092fcf480c.jpg",
+    "static/media/mock2.jpg": "/santeh-gold-almaty/static/media/mock2.1cb53c5b128111541ee2.jpg",
+    "index.html": "/santeh-gold-almaty/index.html",
+    "main.9f9383db.css.map": "/santeh-gold-almaty/static/css/main.9f9383db.css.map",
+    "main.a6236391.js.map": "/santeh-gold-almaty/static/js/main.a6236391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f9383db.css",
+    "static/js/main.a6236391.js"
+  ]
+}
